@@ -1,0 +1,8 @@
+faster-whisper
+TTS
+google-search-results
+soundfile
+librosa
+torch
+torchaudio
+python-dotenv
